@@ -39,6 +39,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
  - **Customer Behavior**
  - **Product Performance**
  - **Sales Trends**
- - These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+ 
+  These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 
